@@ -10,4 +10,5 @@
 2.any linux os
 
 
-https://user-images.githubusercontent.com/71656350/113573384-0d1eb680-95e8-11eb-9104-78adffbcc1d5.mp4
+
+![demo](https://user-images.githubusercontent.com/71656350/113573729-b5cd1600-95e8-11eb-9516-6e70fab6f833.gif)
